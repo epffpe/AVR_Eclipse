@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1255888448562
+java.version,sysinfo,,,"1.6.0_06",1255888448562
+java.vm.info,sysinfo,,,"mixed mode",1255888448562
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1255888448562
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1255888448562
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1255888448562
+java.vm.specification.version,sysinfo,,,"1.0",1255888448562
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1255888448562
+java.vm.version,sysinfo,,,"10.0-b22",1255888448562
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1255888448812
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1255888448812
+started,bundle,org.eclipse.team.cvs.ui,3.3.201.R35x_v20090826-0905,"org.eclipse.team.cvs.ui",1255888449125
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1255888456234
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888465000
+started,bundle,org.eclipse.cdt.core,5.1.1.200909110608,"org.eclipse.cdt.core",1255888477328
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1255888477359
+started,bundle,de.innot.avreclipse.core,2.3.1.20081204PRD,"de.innot.avreclipse.core",1255888478078
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1255888478250
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888564031
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.201.R35x_v20090818-0225,"org.eclipse.jdt.apt.pluggable.core",1255888564125
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888574609
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888574609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888574765
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888584890
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888596828

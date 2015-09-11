@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888601140
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1255888601156
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1255888601156
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888606375
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888651234
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888672328
+started,bundle,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui",1255888677625
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888680406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888694906
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888756437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888764843
+error,log,,,"Invalid MTJ Project.",1255888790812
+opened,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1255888791109
+activated,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1255888791171
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888791234
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1255888793953
+started,bundle,org.eclipse.pde.core,3.5.100.v20090821,"org.eclipse.pde.core",1255888794375
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1255888794546
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888798234
+error,log,,,"Invalid MTJ Project.",1255888799484
+closed,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1255888799796
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888799937
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1255888799953
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888824781
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255888850531

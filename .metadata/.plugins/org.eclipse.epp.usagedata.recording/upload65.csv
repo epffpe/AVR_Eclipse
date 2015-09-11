@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1264426872950
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20090731,"org.eclipse.ui.views.log",1264426872966
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1264426873059
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1264426873059
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1264426873075
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1264426873138
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1264426873153
+started,bundle,org.eclipse.mtj.core.hooks,1.0.0.v200909181641,"org.eclipse.mtj.core.hooks",1264426873216
+started,bundle,org.eclipse.jdt.apt.core,3.3.201.R35x_v20090818-0235,"org.eclipse.jdt.apt.core",1264426873216
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.201.R35x_v20090818-0225,"org.eclipse.jdt.apt.pluggable.core",1264426873216
+started,bundle,org.eclipse.jdt.core,3.5.1.v_972_R35x,"org.eclipse.jdt.core",1264426873247
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20090603,"org.eclipse.jdt.core.manipulation",1264426873403
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1264426873403
+started,bundle,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui",1264426873403
+started,bundle,org.eclipse.mtj.core,1.1.0.v200909181641,"org.eclipse.mtj.core",1264426873466
+started,bundle,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui",1264426873638
+started,bundle,com.android.ide.eclipse.ddms,0.9.3.v200909031112-12945,"com.android.ide.eclipse.ddms",1264426873638
+os,sysinfo,,,"win32",1264426873934
+arch,sysinfo,,,"x86",1264426873934
+ws,sysinfo,,,"win32",1264426873934
+locale,sysinfo,,,"es_ES",1264426873934
+processors,sysinfo,,,"2",1264426873934
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1264426873934
+java.runtime.version,sysinfo,,,"1.6.0_16-b01",1264426873934
+java.specification.name,sysinfo,,,"Java Platform API Specification",1264426873934

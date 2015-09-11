@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1254693366234
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1254693366234
+java.vm.version,sysinfo,,,"10.0-b22",1254693366234
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254693375343
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254693375359
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1254693375406
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254693390312
+started,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1254693421765
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1254693421859
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1254693422375
+started,bundle,de.innot.avreclipse.core,2.3.1.20081204PRD,"de.innot.avreclipse.core",1254693422968
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1254693458921
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1254693458984
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1254693459171
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254693547281
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1254693547875
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1254693561312
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1254693561578
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254693575171
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254693583468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254693596609
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254693614859
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1254693619187
+opened,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1254693619203
+activated,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1254693619265

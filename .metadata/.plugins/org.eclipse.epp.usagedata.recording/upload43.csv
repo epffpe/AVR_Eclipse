@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1255847290906
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1255847297500
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1255847299968
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847306125
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847318312
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.saveAs",1255847318312
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847320718
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847320718
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847320859
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847335953
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847342171
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1255847372515
+error,log,,,"Invalid MTJ Project.",1255847393281
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847393343
+error,log,,,"Invalid MTJ Project.",1255847393765
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1255847396078
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1255847404375
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1255847410796
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1255847414296
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847417468
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847424296
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847424375
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847456390
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1255847458906
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847466562

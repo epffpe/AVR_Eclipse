@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mtj.core.hooks,1.0.0.v200909181641,"org.eclipse.mtj.core.hooks",1255889346781
+started,bundle,org.eclipse.jdt.apt.core,3.3.201.R35x_v20090818-0235,"org.eclipse.jdt.apt.core",1255889346859
+started,bundle,org.eclipse.jdt.core,3.5.1.v_972_R35x,"org.eclipse.jdt.core",1255889346859
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20090603,"org.eclipse.jdt.core.manipulation",1255889346859
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1255889346875
+started,bundle,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui",1255889346875
+started,bundle,org.eclipse.mtj.core,1.1.0.v200909181641,"org.eclipse.mtj.core",1255889346890
+started,bundle,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui",1255889346953
+started,bundle,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.adt",1255889346953
+started,bundle,com.android.ide.eclipse.ddms,0.9.3.v200909031112-12945,"com.android.ide.eclipse.ddms",1255889346953
+os,sysinfo,,,"win32",1255889346953
+arch,sysinfo,,,"x86",1255889346953
+ws,sysinfo,,,"win32",1255889346953
+locale,sysinfo,,,"es_ES",1255889346953
+processors,sysinfo,,,"2",1255889346953
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1255889346953
+java.runtime.version,sysinfo,,,"1.6.0_16-b01",1255889346953
+java.specification.name,sysinfo,,,"Java Platform API Specification",1255889346953
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1255889346953
+java.specification.version,sysinfo,,,"1.6",1255889346953
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1255889346953
+java.version,sysinfo,,,"1.6.0_16",1255889346953
+java.vm.info,sysinfo,,,"mixed mode",1255889346953
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1255889346953
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1255889346953

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1264426873934
+java.specification.version,sysinfo,,,"1.6",1264426873934
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1264426873934
+java.version,sysinfo,,,"1.6.0_16",1264426873934
+java.vm.info,sysinfo,,,"mixed mode",1264426873934
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1264426873934
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1264426873934
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1264426873934
+java.vm.specification.version,sysinfo,,,"1.0",1264426873934
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1264426873934
+java.vm.version,sysinfo,,,"14.2-b01",1264426873934
+started,bundle,org.eclipse.team.cvs.ui,3.3.201.R35x_v20090826-0905,"org.eclipse.team.cvs.ui",1264426873966
+started,bundle,com.android.ide.eclipse.adt,0.9.3.v200909031112-12945,"com.android.ide.eclipse.adt",1264426874700
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1264426875138
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1264426880981
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1264426881013
+started,bundle,org.eclipse.cdt.core,5.1.1.200909110608,"org.eclipse.cdt.core",1264426884294
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1264426884309
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1264426884856
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1264426887794
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1264426889450
+started,bundle,de.innot.avreclipse.core,2.3.1.20081204PRD,"de.innot.avreclipse.core",1264426891559
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1264426892684
+started,bundle,org.eclipse.wst.sse.core,1.1.401.v200909172215,"org.eclipse.wst.sse.core",1264426892747
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1264426910919

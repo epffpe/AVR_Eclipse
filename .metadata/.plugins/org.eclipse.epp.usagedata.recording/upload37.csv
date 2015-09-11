@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui",1255846379484
+started,bundle,de.innot.avreclipse.core,2.3.1.20081204PRD,"de.innot.avreclipse.core",1255846379484
+started,bundle,org.eclipse.cdt.core,5.1.1.200909110608,"org.eclipse.cdt.core",1255846379484
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1255846379484
+started,bundle,org.eclipse.cdt.make.ui,6.0.1.200909110608,"org.eclipse.cdt.make.ui",1255846379484
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1255846379484
+started,bundle,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui",1255846379484
+os,sysinfo,,,"win32",1255846379500
+arch,sysinfo,,,"x86",1255846379500
+ws,sysinfo,,,"win32",1255846379500
+locale,sysinfo,,,"es_ES",1255846379500
+processors,sysinfo,,,"2",1255846379500
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1255846379500
+java.runtime.version,sysinfo,,,"1.6.0_06-b02",1255846379500
+java.specification.name,sysinfo,,,"Java Platform API Specification",1255846379500
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1255846379500
+java.specification.version,sysinfo,,,"1.6",1255846379500
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1255846379500
+java.version,sysinfo,,,"1.6.0_06",1255846379500
+java.vm.info,sysinfo,,,"mixed mode",1255846379500
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1255846379500
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1255846379500
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1255846379500
+java.vm.specification.version,sysinfo,,,"1.0",1255846379500
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1255846379500

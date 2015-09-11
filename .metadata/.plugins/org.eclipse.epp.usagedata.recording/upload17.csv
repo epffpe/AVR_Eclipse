@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Error creating session",1254694311796
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694311796
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694312828
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.asm.AsmEditor",1254694314890
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1254694316640
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694319187
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694321312
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.navigate.next",1254694326906
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1254694333750
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1254694338984
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694349687
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694387281
+error,log,,,"Error creating session",1254694388015
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694388015
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694392156
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694393250
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694393250
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694393390
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694442312
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694466453
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1254694471453
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1254694471468
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1254694490390
+activated,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.PropertySheet",1254694500953
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1254694501718

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255846953671
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255846963093
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847000156
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1255847020171
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1255847020609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847024421
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847026468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847027156
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847144375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847146343
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847148609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847150703
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847155406
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1255847158984
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847160468
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1255847162484
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1255847162500
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1255847162500
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1255847171625
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1255847173953
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.JavadocView",1255847199796
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.JavadocView",1255847199812
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.SourceView",1255847200578
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.SourceView",1255847200593
+error,log,,,"An internal error occurred during: ""AVR Device Explorer"".",1255847200718
